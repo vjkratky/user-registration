@@ -31,25 +31,6 @@ The project provides user management APIs secured with **Spring Security**, pers
 
 ---
 
-## 🏗️ Project Structure
-
-├── src/
-│ └── main/java/com/example/userregistration
-│ ├── config
-│ ├── controller
-│ ├── model
-│ ├── repository
-│ ├── service
-│ └── UserRegistrationApplication.java
-├── Dockerfile
-├── docker-compose.yml
-├── build.gradle
-├── gradle/
-├── gradlew
-└── README.md
-
----
-
 ## 🐳 Docker
 
 ### Build Docker image
